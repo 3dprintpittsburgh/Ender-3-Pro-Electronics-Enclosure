@@ -9,8 +9,9 @@ The original project doesn’t have very clear instructions, so we’ve written 
 See the parts lists below to gather and print everything you'll need for the upgrade before you get started.
 
 # Step by Step Instructions
-1. Add the heat press inserts to the holes indicated below in the grill panels
-2. Remove all zipties holding cables to the lower frame and lay the printer on its side 
+1. Add the heat press inserts to the holes indicated below (1a) in the two left and two right grill panels
+2. Attach the RPi Mount to the Pi using four M2 screws
+3. Remove all zipties holding cables to the lower frame and lay the printer on its side 
 4. Unscrew the PSU from the frame, then remove the mainboard enclosure and screen/Raspberry Pi
 5. Remove the plastic base from the PSU. You will have to disconnect the wires from the mainboard to feed them back through the hole.
 6. Take the plug adapter off of the plastic base. Break off and sand down the bottom "wing" to make it fit on the grill. Mount the plug adapter to the 'Back Grill Middle' using one M3x16 screww and T nut. The T nut will just span the hexagon space that the screw passes through.
@@ -18,11 +19,13 @@ See the parts lists below to gather and print everything you'll need for the upg
 
 # Build Images
 ![Alt text](/images/HeatInserts.PNG?raw=true "Heat Press Inserts in Grill Panel")
+*1a. Heat press inserts in grill panel*
 
 # Additional Build Notes
 - Wire lengths will need to be adjusted once everything is rearranged.
 - The screen panel and screen will be completely removed from the printer after this upgrade.
 
+# Printed Parts List
 | Part Name | QTY | Material | Color |
 | ------------- | ------------- | ------------- | ------------- |
 | Deck Left Front | 1 | PETG CF (Push Plastic) | Black |
@@ -45,4 +48,11 @@ See the parts lists below to gather and print everything you'll need for the upg
 | Grill Endcap (blank) | 2 | PETG (Polymaker) | Grey |
 | 40mm Fan Mount | 1 | PETG CF (Push Plastic) | Black |
 | Buck Converter Box | 1 | PETG (Polymaker) | Yellow |
+
+# Hardware BOM
+| Part Name | QTY | Use Description |
+| ------------- | ------------- | ------------- |
+| M2x4 Screws | 4 | To attach RPi to RPi Mount |
+| M3 Screws / M3 T Nuts | 2/2 | Mount 4040 fan to printer frame |
+
 
