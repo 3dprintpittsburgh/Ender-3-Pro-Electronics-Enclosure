@@ -10,11 +10,13 @@ See the parts lists below to gather and print everything you'll need for the upg
 
 # Step by Step Instructions
 1. Add the heat press inserts to the holes indicated below in the grill panels
-2. Remove all zipties holding cables to the lower frame and lay the printer on its side 
-3. Unscrew the PSU from the frame, then remove the mainboard enclosure and screen/Raspberry Pi
-4. Remove the plastic base from the PSU. You will have to disconnect the wires from the mainboard to feed them back through the hole.
-5. Take the plug adapter off of the plastic base. Break off and sand down the bottom "wing" to make it fit on the grill. Mount the plug adapter to the 'Back Grill Middle' using one M3x16 screww and T nut. The T nut will just span the hexagon space that the screw passes through.
-6.
+![Alt text](/images/HeatInserts.PNG?raw=true "Heat Press Inserts in Grill Panel")
+
+3. Remove all zipties holding cables to the lower frame and lay the printer on its side 
+4. Unscrew the PSU from the frame, then remove the mainboard enclosure and screen/Raspberry Pi
+5. Remove the plastic base from the PSU. You will have to disconnect the wires from the mainboard to feed them back through the hole.
+6. Take the plug adapter off of the plastic base. Break off and sand down the bottom "wing" to make it fit on the grill. Mount the plug adapter to the 'Back Grill Middle' using one M3x16 screww and T nut. The T nut will just span the hexagon space that the screw passes through.
+7.
 
 # Additional Build Notes
 - Wire lengths will need to be adjusted once everything is rearranged.
