@@ -9,12 +9,19 @@ The original project doesn’t have very clear instructions, so we’ve written 
 See the parts lists below to gather and print everything you'll need for the upgrade before you get started.
 
 # Step by Step Instructions
-1. Remove all zipties holding cables to the lower frame and lay the printer on its side 
-2. Add the heat press inserts to the holes indicated below (1a) in the two left and two right grill panels
-3. Attach the RPi Mount to the Pi using four M2 screws
-4. Use the RPi Shelf to mount the Pi to the SKR board. The shelf screws will go the whole way through to the SKR mini mount.
-5. Run the mini USB cable between the mainboard and the Pi
-6. Mount the PSU Hanger to the PSU
+1. Remove all zipties holding cables to the lower frame and lay the printer on its side
+2. Unplug the Y and Z axis cables from the wiring harness. You will need to remove some of the tape and zip ties from the harness to move wires around
+3. Add the heat press inserts to the holes indicated below (1a) in the two left and two right grill panels
+4. Attach the RPi Mount to the Pi using four M2 screws
+5. Use the RPi Shelf to mount the Pi to the SKR board. The shelf screws will also go the whole way through to the SKR mini mount.
+6. Run the mini USB cable between the mainboard and the Pi
+7. Mount the PSU Hanger to the PSU
+8. Follow the mounting layout below to mount all of the electronics
+9. Adjust any wire lengths at this point. Update any connectors or plugs that need it as well
+10. Flip the printer upright again. Unscrew the Z screw stepper motor and rotate it 90 deg as shown below (2a)
+11. Run the cable harness up throguh the slot in the back left deck panel
+12. Screw all 4 of the panels down as indicated below (3a)
+13. Plug in the Y and Z axis cables from the harness and add zip ties where needed to manage cables
 
 # Mounting Layout
 7. Unscrew the PSU from the frame, then remove the mainboard enclosure and screen/Raspberry Pi
